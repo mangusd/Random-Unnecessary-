@@ -1,0 +1,6 @@
+if roll_again == '1' :
+    from playsound import playsound
+    playsound('mario_killed.mp3')
+elif roll_again == '20' :
+    from playsound import playsound
+    playsound('quack_sound_effect.mp3')
